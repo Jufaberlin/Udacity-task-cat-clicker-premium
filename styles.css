@@ -1,0 +1,15 @@
+div {
+  margin: 20 50;
+  justify-content: space-around;
+  max-width: 100px;
+  max-height: auto;
+}
+
+p {
+  float: left;
+  margin: 20px;
+}
+
+p:hover {
+  font-style: italic;
+}
